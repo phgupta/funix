@@ -1,4 +1,3 @@
-// Author: Sean Davis
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
