@@ -1,4 +1,3 @@
-// Author: Sean Davis
 #ifndef FUNIX_H
   #define FUNIX_H
 
