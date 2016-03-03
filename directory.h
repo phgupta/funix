@@ -1,5 +1,3 @@
-// Author: Sean Davis
-
 #ifndef DIRECTORY_H
   #define DIRECTORY_H
 
