@@ -1,5 +1,3 @@
-// Author: Sean Davis
-
 #include <stdio.h>
 #include "permissions.h"
 
