@@ -1,5 +1,3 @@
-// Author: Sean Davis
-
 #ifndef PERMISSIONS_H
   #define PERMISSIONS_H
 
