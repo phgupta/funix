@@ -1,5 +1,3 @@
-// Author: Sean Davis
-
 #include <stdlib.h>
 #include "funix.h"
 
